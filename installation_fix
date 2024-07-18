@@ -1,0 +1,4 @@
+For RHEL 9.x use this option:
+
+ln -s "/usr/lib64/libncurses.so.6.2 "/usr/lib64/libncurses.so.5"
+ln -s "/usr/lib64/libtinfo.so.6.2" "/usr/lib64/libtinfo.so.5"
